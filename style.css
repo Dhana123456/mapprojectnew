@@ -1,0 +1,25 @@
+.image
+{
+    border-radius: 8px;
+    margin-left: 20px;
+}
+P,p {
+    font-size: 18px;
+    text-indent: 30px;
+    font-weight: 600;
+}
+h1{
+    color: white;
+    text-decoration: underline;
+}
+table{
+    font-size: 17px;
+}
+body{
+    margin-bottom: 30px;
+}
+
+h2{
+    color:#191970;
+    
+}
